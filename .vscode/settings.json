@@ -1,0 +1,11 @@
+{
+  "C_Cpp.intelliSenseEngine": "default",
+  "idf.openOcdConfigs": [
+    "interface/ftdi/esp32_devkitj_v1.cfg",
+    "target/esp32.cfg"
+  ],
+  "idf.currentSetup": "C:/Espressif/frameworks/esp-idf-v5.4/",
+  "idf.customExtraVars": {
+    "IDF_TARGET": "esp32"
+  }
+}
